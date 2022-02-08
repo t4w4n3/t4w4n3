@@ -3,19 +3,17 @@
 
 - 🔭 I’m currently working on **Bouygues Telecom SI for Younup**
 
-- 🌱 I’m currently learning **DDD, microservices, Angular, Typescript**
+- 🌱 I’m currently learning **DDD, microservices, Java 17, Clean architecture, Reactive programming**
 
 - 👨‍💻 All of my projects are available at [https://t4w4n3.github.io/](https://t4w4n3.github.io/)
 
 - 📝 I regularly write articles on [https://www.younup.fr/blog](https://www.younup.fr/blog)
 
-- 💬 Ask me about **Java, Spring, Hibernate, Spock, Grails, Groovy, Gorm, Gradle, Maven, Geb**
+- 💬 Ask me about **Java, Spring, Java EE, Hibernate, Spock, Grails, Groovy, Gorm, Gradle, Maven, Geb**
 
 - 📫 How to reach me **contact@antoine-salesse.fr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antoine-salesse/](https://www.linkedin.com/in/antoine-salesse/)
-
-- ⚡ Fun fact **Inspiration is perishable, act on it immediatly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
