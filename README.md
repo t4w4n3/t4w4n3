@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Antoine Salesse (tawane)</h1>
 <h3 align="center">A passionate backend engineer from Nantes (France)</h3>
 
-- 🔭 I’m currently working on **SNCF.connect backend for Younup**
+- 🔭 I’m currently working on **SNCF Connect backend for Younup**
 
-- 🌱 I’m currently learning **DDD, Reactive programming**
+- 🌱 I’m currently learning **DDD, Distributed systems**
 
 - 👨‍💻 All of my projects are available at [https://t4w4n3.github.io/](https://t4w4n3.github.io/)
 
 - 📝 I regularly write articles on [https://www.younup.fr/blog](https://www.younup.fr/blog)
 
-- 💬 Ask me about **Java, Kotlin, structured concurrency, Spring, Java EE, data persistence, Gradle, Maven, hexagonal architecture, testing strategy, distributed architecture**
+- 💬 Ask me about **Java, Kotlin, Gradle, System Design, Data persistence, Hexagonal architecture, Testing strategy, Distributed architecture**
 
 - 📫 How to reach me **contact@antoine-salesse.fr**
 
