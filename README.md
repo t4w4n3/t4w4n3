@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antoine Salesse (tawane)</h1>
-<h3 align="center">A passionate backend engineer from Nantes (France)</h3>
+<h3 align="center">A passionate Software Product engineer from Nantes (France)</h3>
 
-- 🔭 I’m currently working on an internal CFP Web-app at **WeScale**
+- 🔭 I’m currently working at **StrangeBee**
 
 - 🌱 I’m currently learning **DDD, Distributed systems**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.antoine-salesse.fr](https://blog.antoine-salesse.fr)
 
-- 💬 Ask me about **Java, Kotlin, Gradle, System Design, Data persistence, Hexagonal architecture, Testing strategy, Distributed architecture**
+- 💬 Ask me about **AI, Go, Java, Kotlin, Gradle, System Design, Data persistence, Hexagonal architecture, Testing strategy, Distributed architecture**
 
 - 📫 How to reach me **contact@antoine-salesse.fr**
 
